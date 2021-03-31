@@ -30,6 +30,9 @@
 
 <hr>
 
+### My Stats ?
+[![ReadMe Card](https://github-readme-stats.vercel.app/api?username=fark00&show_icons=true)](https://github.com/fark00)
+
 <!--
 **fark00/fark00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -51,7 +51,6 @@
 [<img src="https://image.flaticon.com/icons/png/128/2111/2111646.png" width="3.5%"/>](https://t.me/farzaneh_koohestani)
 
 <hr>
-<img src="https://image.flaticon.com/icons/png/128/732/732200.png" width="3.5%"/>My Gmail address: farzanehkoohestani2000@gmail.com
 
 [<img src="https://image.flaticon.com/icons/png/128/732/732200.png" width="3.5%"/>](farzanehkoohestani2000@gmail.com) My Gmail address: farzanehkoohestani2000@gmail.com
 

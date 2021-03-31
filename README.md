@@ -8,7 +8,7 @@
 
 <hr>
 
-### What I know ?
+### What I know?
 <p align="left">
 <img src="https://img.icons8.com/color/48/000000/git.png" alt="git" width="40" height="40"/>
 <img src="https://img.icons8.com/color/48/000000/linux.png" alt="linux" width="40" height="40"/>
@@ -31,21 +31,14 @@
 
 <hr>
 
-### My Stats ?
-[![ReadMe Card](https://github-readme-stats.vercel.app/api?username=fark00&show_icons=true&count_private=true&count_private=true)](https://github.com/fark00)
-![fark00's GitHub stats](https://github-readme-stats.vercel.app/api?username=fark00&theme=dracula&show_icons=true)
+### My Stats and Top Lang:
+![fark00's GitHub stats](https://github-readme-stats.vercel.app/api?username=fark00&theme=dracula&show_icons=true&count_private=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fark00&layout=compact&theme=dracula&show_icons=true&count_private=true)](https://github.com/fark00)
 
 <hr>
 
-### My Top Lang ?
 
-<p>Well , Here are top langs I used in my projects !</p>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fark00&layout=compact&theme=dracula&show_icons=true)](https://github.com/fark00)
-
-<hr>
-
-### Find me ?
+### Find me @
 <p><b>Social medias :</b></p>
 
 [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://linkedin.com/in/farzanehkoohestani/)

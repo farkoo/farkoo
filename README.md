@@ -1,3 +1,8 @@
+<p>
+<img alt="GitHub followers" src="https://img.shields.io/github/followers/fark00?style=flat-square&color=lightgrey">
+<img alt="Github Viewers" src="https://komarev.com/ghpvc/?username=fark00&style=flat-square&color=lightgrey">
+</p>
+
 ### Hi there 👋
 
 <!--

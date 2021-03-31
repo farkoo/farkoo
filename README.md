@@ -1,4 +1,3 @@
-![fark00's GitHub stats](https://github-readme-stats.vercel.app/api?username=fark00&theme=dracula&show_icons=true)
 
 <p>
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/fark00?style=flat-square&color=green">
@@ -33,7 +32,8 @@
 <hr>
 
 ### My Stats ?
-[![ReadMe Card](https://github-readme-stats.vercel.app/api?username=fark00&show_icons=true&&count_private=true)](https://github.com/fark00)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api?username=fark00&show_icons=true&count_private=true&count_private=true)](https://github.com/fark00)
+![fark00's GitHub stats](https://github-readme-stats.vercel.app/api?username=fark00&theme=dracula&show_icons=true)
 
 <hr>
 
@@ -41,7 +41,7 @@
 
 <p>Well , Here are top langs I used in my projects !</p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fark00&layout=compact)](https://github.com/fark00)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fark00&layout=compact&theme=dracula&show_icons=true)](https://github.com/fark00)
 
 <hr>
 

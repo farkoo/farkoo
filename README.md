@@ -39,6 +39,13 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fark00&layout=compact)](https://github.com/fark00)
 
+### Find me ?
+<p><b>Social medias :</b></p>
+
+[<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://linkedin.com/in/farzanehkoohestani/)
+[<img src="https://img.icons8.com/color/48/000000/instagram.png" width="3.5%"/>](https://instagram.com/leonarndo_l_larson)
+[<img src="https://img.icons8.com/color/48/000000/telegram.png" width="3.5%"/>](https://t.me/farzaneh_koohestani)
+
 <!--
 **fark00/fark00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

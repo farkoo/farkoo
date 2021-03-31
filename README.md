@@ -24,7 +24,7 @@
 <img src="https://image.flaticon.com/icons/png/128/1199/1199128.png" alt="mysql" width="40" height="40"/>
 <img src="https://image.flaticon.com/icons/png/128/2772/2772128.png" alt="mssql" width="40" height="40"/>
 <img src="https://img.icons8.com/color/48/000000/postgresql.png" alt="postgresql" width="40" height="40"/>
-<img src="https://img.icons8.com/color/48/000000/arduino.png" alt="arduino" width="40" height="40"/>
+<img src="https://cdn.icon-icons.com/icons2/2148/PNG/512/avr_icon_132637.png" alt="avr" width="40" height="40"/>
 
 </p>
 

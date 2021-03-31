@@ -14,6 +14,7 @@
 <img src="https://img.icons8.com/color/48/000000/python.png" alt="python" width="40" height="40"/>
 <img src="https://img.icons8.com/fluent/2x/matlab.png" alt="matlab" width="40" height="40"/>
 <img src="https://img.icons8.com/fluent/2x/laravel.png" alt="laravel" width="40" height="40"/>
+<img src="https://www.flaticon.com/svg/vstatic/svg/3600/3600912.svg?token=exp=1617210143~hmac=2b2d7bf5425e28fff1e01b4c76124b9e" alt="cplusplus" width="40" height="40"/>
 <img src="https://www.flaticon.com/svg/vstatic/svg/919/919841.svg?token=exp=1617208657~hmac=bb9a3f28c6189bcba01f5f45174b7997" alt="cplusplus" width="40" height="40"/>
 <img src ="https://www.flaticon.com/svg/vstatic/svg/381/381704.svg?token=exp=1617208521~hmac=1ed821c2f288903d0ed6a3dd846018ea" alt="csarp" width="40" height="40"/>
 <img src="https://image.flaticon.com/icons/png/128/919/919830.png" alt="php" width="40" height="40"/>

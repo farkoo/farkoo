@@ -33,11 +33,15 @@
 ### My Stats ?
 [![ReadMe Card](https://github-readme-stats.vercel.app/api?username=fark00&show_icons=true)](https://github.com/fark00)
 
+<hr>
+
 ### My Top Lang ?
 
 <p>Well , Here are top langs I used in my projects !</p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fark00&layout=compact)](https://github.com/fark00)
+
+<hr>
 
 ### Find me ?
 <p><b>Social medias :</b></p>
@@ -45,6 +49,9 @@
 [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://linkedin.com/in/farzanehkoohestani/)
 [<img src="https://image.flaticon.com/icons/png/128/2111/2111463.png" width="3.5%"/>](https://instagram.com/farzaneh_koohestani)
 [<img src="https://image.flaticon.com/icons/png/128/2111/2111646.png" width="3.5%"/>](https://t.me/farzaneh_koohestani)
+[<img src="https://image.flaticon.com/icons/png/128/732/732200.png" width="3.5%"/>](farzanehkoohestani2000@gmail.com)
+
+<hr>
 
 <!--
 **fark00/fark00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

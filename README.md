@@ -53,6 +53,8 @@
 <hr>
 <img src="https://image.flaticon.com/icons/png/128/732/732200.png" width="3.5%"/>My Gmail address: farzanehkoohestani2000@gmail.com
 
+[<img src="https://img.icons8.com/color/48/000000/yahoo.png" width="3.5%"/>](farzanehkoohestani2000@gmail.com) farzanehkoohestani2000@gmail.com
+
 <!--
 **fark00/fark00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

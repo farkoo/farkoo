@@ -10,8 +10,8 @@
 
 ### What I know?
 <p align="left">
-<img src="https://img.icons8.com/color/48/000000/git.png" alt="git" width="40" height="40"/>
-<img src="https://img.icons8.com/color/48/000000/linux.png" alt="linux" width="40" height="40"/>
+<img src="https://img.icons8.com/clouds/2x/github.png" alt="git" width="40" height="40"/>
+<img src="https://img.icons8.com/color/2x/linux.png" alt="linux" width="40" height="40"/>
 <img src="https://img.icons8.com/color/2x/python.png" alt="python" width="40" height="40"/>
 <img src="https://img.icons8.com/fluent/2x/matlab.png" alt="matlab" width="40" height="40"/>
 <img src="https://img.icons8.com/color/2x/c-programming.png" alt="c" width="40" height="40"/>
@@ -24,7 +24,7 @@
 <img src="https://img.icons8.com/color/2x/bootstrap.png" alt="bootstrap" width="40" height="40"/>
 <img src="https://img.icons8.com/fluent/2x/mysql-logo.png" alt="mysql" width="40" height="40"/>
 <img src="https://image.flaticon.com/icons/png/128/2772/2772128.png" alt="mssql" width="40" height="40"/>
-<img src="https://img.icons8.com/color/48/000000/postgresql.png" alt="postgresql" width="40" height="40"/>
+<img src="https://img.icons8.com/color/2x/postgreesql.png" alt="postgresql" width="40" height="40"/>
 <img src="https://cdn.icon-icons.com/icons2/2148/PNG/512/avr_icon_132637.png" alt="avr" width="40" height="40"/>
 
 </p>

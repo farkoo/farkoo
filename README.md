@@ -12,7 +12,7 @@
 <p align="left">
 <img src="https://img.icons8.com/color/48/000000/git.png" alt="git" width="40" height="40"/>
 <img src="https://img.icons8.com/color/48/000000/linux.png" alt="linux" width="40" height="40"/>
-<img src="https://img.icons8.com/color/48/000000/python.png" alt="python" width="40" height="40"/>
+<img src="https://img.icons8.com/color/2x/python.png" alt="python" width="40" height="40"/>
 <img src="https://img.icons8.com/fluent/2x/matlab.png" alt="matlab" width="40" height="40"/>
 <img src="https://img.icons8.com/color/2x/c-programming.png" alt="c" width="40" height="40"/>
 <img src="https://img.icons8.com/color/2x/c-plus-plus-logo.png" alt="cplusplus" width="40" height="40"/>

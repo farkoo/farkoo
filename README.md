@@ -21,7 +21,7 @@
 <img src="https://image.flaticon.com/icons/png/128/919/919830.png" alt="php" width="40" height="40"/>
 <img src="https://img.icons8.com/color/2x/html-5.png" alt="html" width="40" height="40"/>
 <img src="https://img.icons8.com/color/2x/css3.png" alt="css" width="40" height="40"/>
-<img src="https://img.icons8.com/color/2x/bootstrap.png" alt="bootstrap" width="45" height="40"/>
+<img src="https://img.icons8.com/color/2x/bootstrap.png" alt="bootstrap" width="40" height="40"/>
 <img src="https://img.icons8.com/fluent/2x/mysql-logo.png" alt="mysql" width="40" height="40"/>
 <img src="https://image.flaticon.com/icons/png/128/2772/2772128.png" alt="mssql" width="40" height="40"/>
 <img src="https://img.icons8.com/color/48/000000/postgresql.png" alt="postgresql" width="40" height="40"/>

@@ -15,9 +15,9 @@
 <img src="https://img.icons8.com/color/48/000000/python.png" alt="python" width="40" height="40"/>
 <img src="https://img.icons8.com/fluent/2x/matlab.png" alt="matlab" width="40" height="40"/>
 <img src="https://img.icons8.com/fluent/2x/laravel.png" alt="laravel" width="40" height="40"/>
-<img src="https://www.flaticon.com/svg/vstatic/svg/3600/3600912.svg" alt="c" width="40" height="40"/>
-<img src="https://www.flaticon.com/svg/vstatic/svg/919/919841.svg?token=exp=1617208657~hmac=bb9a3f28c6189bcba01f5f45174b7997" alt="cplusplus" width="40" height="40"/>
-<img src ="https://www.flaticon.com/svg/vstatic/svg/381/381704.svg?token=exp=1617208521~hmac=1ed821c2f288903d0ed6a3dd846018ea" alt="csarp" width="40" height="40"/>
+<img src="https://img.icons8.com/color/2x/c-programming.png" alt="c" width="40" height="40"/>
+<img src="https://img.icons8.com/color/2x/c-plus-plus-logo.png" alt="cplusplus" width="40" height="40"/>
+<img src ="https://img.icons8.com/color/2x/c-sharp-logo.png" alt="csharp" width="40" height="40"/>
 <img src="https://image.flaticon.com/icons/png/128/919/919830.png" alt="php" width="40" height="40"/>
 <img src="https://www.flaticon.com/svg/vstatic/svg/174/174854.svg?token=exp=1617209123~hmac=7cfb01b6243e322cd27e53d38ba187da" alt="html" width="40" height="40"/>
 <img src="https://image.flaticon.com/icons/png/128/732/732190.png" alt="css" width="40" height="40"/>

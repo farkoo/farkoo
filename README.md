@@ -19,10 +19,10 @@
 <img src="https://img.icons8.com/color/2x/c-plus-plus-logo.png" alt="cplusplus" width="40" height="40"/>
 <img src ="https://img.icons8.com/color/2x/c-sharp-logo.png" alt="csharp" width="40" height="40"/>
 <img src="https://image.flaticon.com/icons/png/128/919/919830.png" alt="php" width="40" height="40"/>
-<img src="https://www.flaticon.com/svg/vstatic/svg/174/174854.svg?token=exp=1617209123~hmac=7cfb01b6243e322cd27e53d38ba187da" alt="html" width="40" height="40"/>
-<img src="https://image.flaticon.com/icons/png/128/732/732190.png" alt="css" width="40" height="40"/>
-<img src="https://icons.getbootstrap.com/assets/img/icons-hero.png" alt="bootstrap" width="45" height="40"/>
-<img src="https://image.flaticon.com/icons/png/128/1199/1199128.png" alt="mysql" width="40" height="40"/>
+<img src="https://img.icons8.com/color/2x/html-5.png" alt="html" width="40" height="40"/>
+<img src="https://img.icons8.com/color/2x/css3.png" alt="css" width="40" height="40"/>
+<img src="https://img.icons8.com/color/2x/bootstrap.png" alt="bootstrap" width="45" height="40"/>
+<img src="https://img.icons8.com/fluent/2x/mysql-logo.png" alt="mysql" width="40" height="40"/>
 <img src="https://image.flaticon.com/icons/png/128/2772/2772128.png" alt="mssql" width="40" height="40"/>
 <img src="https://img.icons8.com/color/48/000000/postgresql.png" alt="postgresql" width="40" height="40"/>
 <img src="https://cdn.icon-icons.com/icons2/2148/PNG/512/avr_icon_132637.png" alt="avr" width="40" height="40"/>

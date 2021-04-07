@@ -1,7 +1,7 @@
 
 <p>
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/farkoo?style=flat-square&color=green">
-<img alt="Github Viewers" src="https://komarev.com/ghpvc/?username=farkoo&style=flat-square&color=red">
+<img alt="Github Viewers" src="https://komarev.com/ghpvc/?username=fark00&style=flat-square&color=red">
 </p>
 
 # Hi there 👋!

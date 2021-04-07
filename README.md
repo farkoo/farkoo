@@ -1,7 +1,7 @@
 
 <p>
-<img alt="GitHub followers" src="https://img.shields.io/github/followers/fark00?style=flat-square&color=green">
-<img alt="Github Viewers" src="https://komarev.com/ghpvc/?username=fark00&style=flat-square&color=red">
+<img alt="GitHub followers" src="https://img.shields.io/github/followers/farkoo?style=flat-square&color=green">
+<img alt="Github Viewers" src="https://komarev.com/ghpvc/?username=farkoo&style=flat-square&color=red">
 </p>
 
 # Hi there 👋!
@@ -32,8 +32,8 @@
 <hr>
 
 ### My Stats and Top Lang:
-![fark00's GitHub stats](https://github-readme-stats.vercel.app/api?username=fark00&theme=dracula&show_icons=true&count_private=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fark00&layout=compact&theme=dracula&show_icons=true&count_private=true)](https://github.com/fark00)
+![fark00's GitHub stats](https://github-readme-stats.vercel.app/api?username=farkoo&theme=dracula&show_icons=true&count_private=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=farkoo&layout=compact&theme=dracula&show_icons=true&count_private=true)](https://github.com/fark00)
 
 <hr>
 
@@ -47,7 +47,7 @@
 
 <hr>
 
-My [<img src="https://image.flaticon.com/icons/png/128/732/732200.png" width="3.5%"/>](https://github.com/fark00/fark00) address: farzanehkoohestani2000@gmail.com
+My [<img src="https://image.flaticon.com/icons/png/128/732/732200.png" width="3.5%"/>](https://github.com/farkoo/farkoo) address: farzanehkoohestani2000@gmail.com
 
 <!--
 **fark00/fark00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

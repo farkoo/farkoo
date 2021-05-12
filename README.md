@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://github.com/farkoo/farkoo/blob/master/LogoMakr-0LQxqv.png">
+<img src="https://github.com/farkoo/farkoo/blob/master/farkooLogo.png">
 </p>
 
 <p align="center">

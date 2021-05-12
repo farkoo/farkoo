@@ -2,7 +2,7 @@
 <img src="https://github.com/farkoo/farkoo/blob/master/LogoMakr-0LQxqv.png">
 </p>
 
-<p>
+<p align="center">
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/farkoo?style=flat-square&color=green">
 <img alt="Github Viewers" src="https://komarev.com/ghpvc/?username=fark00&style=flat-square&color=red">
 </p>

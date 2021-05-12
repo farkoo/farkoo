@@ -1,5 +1,6 @@
-
+<p align="center">
 <img src="https://github.com/farkoo/farkoo/blob/master/LogoMakr-0LQxqv.png">
+</p>
 
 <p>
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/farkoo?style=flat-square&color=green">

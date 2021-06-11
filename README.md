@@ -61,7 +61,8 @@
 
 <hr>
 
-### Find me @
+### Find me @:
+
 <p align="center"> 
 
 [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://linkedin.com/in/farzanehkoohestani/)
@@ -70,6 +71,7 @@
 [<img src="https://image.flaticon.com/icons/png/128/145/145812.png" width="3.5%"/>](https://twitter.com/farkoo78)
 
 </p>
+
 <!--
 <img src="https://img.icons8.com/fluent/2x/laravel.png" alt="laravel" width="40" height="40"/>
 <img src="https://image.flaticon.com/icons/png/128/919/919830.png" alt="php" width="40" height="40"/>

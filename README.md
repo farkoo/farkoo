@@ -12,16 +12,16 @@
 <hr>
 
 ### What I know?
-<p align="center">
 * **Programming Languages:**
+<p align="center">
 <img src="https://img.icons8.com/color/2x/python.png" alt="python" width="40" height="40"/>
 <img src="https://img.icons8.com/color/2x/c-programming.png" alt="c" width="40" height="40"/>
 <img src="https://img.icons8.com/color/2x/c-plus-plus-logo.png" alt="cplusplus" width="40" height="40"/>
 <img src ="https://img.icons8.com/color/2x/c-sharp-logo.png" alt="csharp" width="40" height="40"/>
 </p>
 
-<p align="center">
 * **Framworks:**
+<p align="center">
 <img src="https://tensorflow.rstudio.com/images/home/tensorflow-logo.svg" alt="git" width="160" height="160"/>
 <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="git" width="40" height="40"/>
 

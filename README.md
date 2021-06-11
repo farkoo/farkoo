@@ -7,7 +7,6 @@
 <img alt="Github Viewers" src="https://komarev.com/ghpvc/?username=fark00&style=flat-square&color=red">
 </p>
 
-# Hi there 👋!
 
 <hr>
 
@@ -21,36 +20,35 @@
 <img src ="https://img.icons8.com/color/2x/c-sharp-logo.png" alt="csharp" width="60" height="60"/>
 <img src ="https://upload.wikimedia.org/wikipedia/en/e/ef/SystemVerilog_logo.png" alt="verilog" width="80" height="40"/>
  </p>
-
+<hr>
 * **Framworks:**
 <p align="center"> 
  <img src="https://cdn.freelogovectors.net/wp-content/uploads/2018/07/tensorflow_logo.png" alt="tensorflow" width="60" height="60"/>
  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/PyTorch_logo_black.svg/488px-PyTorch_logo_black.svg.png" alt="pytorch" width="160" height="40"/>
   <img src="https://keras.io/img/logo.png" alt="keras" width="160" height="50"/>
    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/260px-Scikit_learn_logo_small.svg.png" alt="sklearn" width="70" height="50"/>
-
 </p>
-
+<hr>
 * **Libraries:**
 <p align="center">
    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/OpenCV_Logo_with_text_svg_version.svg/180px-OpenCV_Logo_with_text_svg_version.svg.png" alt="opencv" width="80" height="90"/>
-
 </p>
-
+<hr>
 * **Data Analysis Languages:**
 <p align="center">
 <img src="https://image.flaticon.com/icons/png/128/2772/2772128.png" alt="mssql" width="60" height="60"/>
 <img src="https://img.icons8.com/color/2x/postgreesql.png" alt="postgresql" width="60" height="60"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/SQLite370.svg/382px-SQLite370.svg.png" alt="sqlite" width="130" height="60"/>
 </p>
-
+<hr>
 * **Others:**
 <p align="center">
 
-<img src="https://img.icons8.com/clouds/2x/github.png" alt="git" width="40" height="40"/>
-<img src="https://img.icons8.com/color/2x/linux.png" alt="linux" width="40" height="40"/>
+<img src="https://img.icons8.com/clouds/2x/github.png" alt="git" width="60" height="60"/>
+<img src="https://img.icons8.com/color/2x/linux.png" alt="linux" width="60" height="60"/>
 </p>
 
+<!--
 <img src="https://img.icons8.com/fluent/2x/laravel.png" alt="laravel" width="40" height="40"/>
 <img src="https://image.flaticon.com/icons/png/128/919/919830.png" alt="php" width="40" height="40"/>
 <img src="https://img.icons8.com/color/2x/html-5.png" alt="html" width="40" height="40"/>
@@ -58,10 +56,9 @@
 <img src="https://img.icons8.com/color/2x/bootstrap.png" alt="bootstrap" width="40" height="40"/>
 <img src="https://img.icons8.com/fluent/2x/mysql-logo.png" alt="mysql" width="40" height="40"/>
 <img src="https://image.flaticon.com/icons/png/128/2772/2772128.png" alt="mssql" width="40" height="40"/>
-<img src="https://img.icons8.com/color/2x/postgreesql.png" alt="postgresql" width="40" height="40"/>
-<img src="https://cdn.icon-icons.com/icons2/2148/PNG/512/avr_icon_132637.png" alt="avr" width="40" height="40"/>
 
 </p>
+-->
 
 <hr>
 

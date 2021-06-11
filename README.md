@@ -22,9 +22,13 @@
 
 * **Framworks:**
 <p align="center">
+ https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/260px-Scikit_learn_logo_small.svg.png
+ 
  <img src="https://cdn.freelogovectors.net/wp-content/uploads/2018/07/tensorflow_logo.png" alt="tensorflow" width="60" height="60"/>
  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/PyTorch_logo_black.svg/488px-PyTorch_logo_black.svg.png" alt="pytorch" width="160" height="40"/>
   <img src="https://keras.io/img/logo.png" alt="keras" width="160" height="50"/>
+   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/260px-Scikit_learn_logo_small.svg.png" alt="sklearn" width="50" height="70"/>
+
 </p>
 
 * **Libraries:**

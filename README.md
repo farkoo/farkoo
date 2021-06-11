@@ -6,7 +6,11 @@
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/farkoo?style=flat-square&color=green">
 <img alt="Github Viewers" src="https://komarev.com/ghpvc/?username=fark00&style=flat-square&color=red">
 </p>
+<hr>
 
+### My Stats and Top Lang:
+![fark00's GitHub stats](https://github-readme-stats.vercel.app/api?username=farkoo&theme=dracula&show_icons=true&count_private=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=farkoo&layout=compact&theme=dracula&show_icons=true&count_private=true)](https://github.com/fark00)
 
 <hr>
 
@@ -21,6 +25,7 @@
 <img src ="https://upload.wikimedia.org/wikipedia/en/e/ef/SystemVerilog_logo.png" alt="verilog" width="80" height="40"/>
  </p>
 <hr>
+
 * **Framworks:**
 <p align="center"> 
  <img src="https://cdn.freelogovectors.net/wp-content/uploads/2018/07/tensorflow_logo.png" alt="tensorflow" width="60" height="60"/>
@@ -29,11 +34,13 @@
    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/260px-Scikit_learn_logo_small.svg.png" alt="sklearn" width="70" height="50"/>
 </p>
 <hr>
+
 * **Libraries:**
 <p align="center">
    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/OpenCV_Logo_with_text_svg_version.svg/180px-OpenCV_Logo_with_text_svg_version.svg.png" alt="opencv" width="80" height="90"/>
 </p>
 <hr>
+
 * **Data Analysis Languages:**
 <p align="center">
 <img src="https://image.flaticon.com/icons/png/128/2772/2772128.png" alt="mssql" width="60" height="60"/>
@@ -41,6 +48,7 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/SQLite370.svg/382px-SQLite370.svg.png" alt="sqlite" width="130" height="60"/>
 </p>
 <hr>
+
 * **Others:**
 <p align="center">
 
@@ -62,9 +70,7 @@
 
 <hr>
 
-### My Stats and Top Lang:
-![fark00's GitHub stats](https://github-readme-stats.vercel.app/api?username=farkoo&theme=dracula&show_icons=true&count_private=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=farkoo&layout=compact&theme=dracula&show_icons=true&count_private=true)](https://github.com/fark00)
+
 
 <hr>
 

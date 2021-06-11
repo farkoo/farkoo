@@ -41,7 +41,7 @@
 <p align="center">
 <img src="https://image.flaticon.com/icons/png/128/2772/2772128.png" alt="mssql" width="40" height="40"/>
 <img src="https://img.icons8.com/color/2x/postgreesql.png" alt="postgresql" width="40" height="40"/>
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9QAGWItgItNQTyRHPcjZZ2MRyeCt8wTI_dP-fuYLmAYuuHDwS5pHr8Z2YXxdds2tc5Js&usqp=CAU" alt="sqlite" width="90" height="40"/>
+<img src="https://www.pngfind.com/pngs/m/668-6687153_database-sqlite-logo-sql-feather-brand-sqlite-logo.png" alt="sqlite" width="90" height="40"/>
 </p>
 
 * **Others:**

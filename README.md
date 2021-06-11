@@ -22,7 +22,7 @@
 
 * **Framworks:**
 <p align="center">
- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/PyTorch_logo_black.svg/488px-PyTorch_logo_black.svg.png" alt="git" width="90" height="40"/>
+ <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/PyTorch_logo_black.svg/488px-PyTorch_logo_black.svg.png" alt="git" width="160" height="40"/>
 
 <img src="https://tensorflow.rstudio.com/images/home/tensorflow-logo.svg" alt="git" width="160" height="160"/>
 </p>

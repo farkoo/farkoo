@@ -65,10 +65,10 @@
 
 <p align="center"> 
 
-[<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://linkedin.com/in/farzanehkoohestani/)
-[<img src="https://image.flaticon.com/icons/png/128/2111/2111463.png" width="3.5%"/>](https://instagram.com/farzaneh_koohestani)
-[<img src="https://image.flaticon.com/icons/png/128/2111/2111646.png" width="3.5%"/>](https://t.me/farzaneh_koohestani)
-[<img src="https://image.flaticon.com/icons/png/128/145/145812.png" width="3.5%"/>](https://twitter.com/farkoo78)
+ [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://linkedin.com/in/farzanehkoohestani/)
+ [<img src="https://image.flaticon.com/icons/png/128/2111/2111463.png" width="3.5%"/>](https://instagram.com/farzaneh_koohestani)
+ [<img src="https://image.flaticon.com/icons/png/128/2111/2111646.png" width="3.5%"/>](https://t.me/farzaneh_koohestani)
+ [<img src="https://image.flaticon.com/icons/png/128/145/145812.png" width="3.5%"/>](https://twitter.com/farkoo78)
 
 </p>
 

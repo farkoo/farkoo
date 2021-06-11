@@ -24,7 +24,8 @@
 <p align="center">
  <img src="https://cdn.freelogovectors.net/wp-content/uploads/2018/07/tensorflow_logo.png" alt="tensorflow" width="60" height="60"/>
  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/PyTorch_logo_black.svg/488px-PyTorch_logo_black.svg.png" alt="pytorch" width="160" height="40"/>
- <img src="https://keras.io/img/logo.png" alt="git" width="160" height="40"/>
+ 
+ <img src="https://s3.amazonaws.com/keras.io/img/keras-logo-2018-large-1200.png" alt="git" width="160" height="40"/>
 
 
 </p>

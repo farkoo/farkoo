@@ -26,8 +26,7 @@
 <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="git" width="40" height="40"/>
 
 </p>
-
-</p>
+<p align="center">
 
 <img src="https://img.icons8.com/clouds/2x/github.png" alt="git" width="40" height="40"/>
 <img src="https://img.icons8.com/color/2x/linux.png" alt="linux" width="40" height="40"/>

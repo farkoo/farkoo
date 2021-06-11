@@ -18,7 +18,7 @@
 <img src="https://img.icons8.com/color/2x/python.png" alt="python" width="40" height="40"/>
 
 * **Framworks:**
-* <img src="https://tensorflow.rstudio.com/images/home/tensorflow-logo.svg" alt="git" width="80" height="80"/>
+* <img src="https://tensorflow.rstudio.com/images/home/tensorflow-logo.svg" alt="git" width="160" height="160"/>
 
 
 <img src="https://img.icons8.com/clouds/2x/github.png" alt="git" width="40" height="40"/>

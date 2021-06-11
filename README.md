@@ -54,6 +54,9 @@
 
 <img src="https://img.icons8.com/clouds/2x/github.png" alt="git" width="60" height="60"/>
 <img src="https://img.icons8.com/color/2x/linux.png" alt="linux" width="60" height="60"/>
+<img src="https://seeklogo.com/images/C/centos-logo-494F57D973-seeklogo.com.png" alt="centos" width="60" height="60"/>
+
+ 
 </p>
 
 <!--

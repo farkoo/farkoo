@@ -24,7 +24,7 @@
 <p align="center">
  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/PyTorch_logo_black.svg/488px-PyTorch_logo_black.svg.png" alt="git" width="160" height="40"/>
 
-<img src="https://cdn.freelogovectors.net/wp-content/uploads/2018/07/tensorflow_logo.png" alt="git" width="80" height="80"/>
+<img src="https://cdn.freelogovectors.net/wp-content/uploads/2018/07/tensorflow_logo.png" alt="git" width="60" height="60"/>
 </p>
 
 

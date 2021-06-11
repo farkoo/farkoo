@@ -41,7 +41,7 @@
 <p align="center">
 <img src="https://image.flaticon.com/icons/png/128/2772/2772128.png" alt="mssql" width="40" height="40"/>
 <img src="https://img.icons8.com/color/2x/postgreesql.png" alt="postgresql" width="40" height="40"/>
-<img src="hhttps://www.google.com/imgres?imgurl=https%3A%2F%2Fi.dlpng.com%2Fstatic%2Fpng%2F7044190_preview.png&imgrefurl=https%3A%2F%2Fdlpng.com%2Fpng%2F7044190&tbnid=rVbRSorEkG1ntM&vet=10CAkQxiAoAWoXChMIuLCasYmQ8QIVAAAAAB0AAAAAEAM..i&docid=y6xxaF90aKyMHM&w=310&h=231&itg=1&q=sqlite%20logo&ved=0CAkQxiAoAWoXChMIuLCasYmQ8QIVAAAAAB0AAAAAEAM" alt="sqlite" width="90" height="40"/>
+<img src="https://www.google.com/imgresimgurl=https%3A%2F%2Fi.dlpng.com%2Fstatic%2Fpng%2F7044190_preview.png&imgrefurl=https%3A%2F%2Fdlpng.com%2Fpng%2F7044190&tbnid=rVbRSorEkG1ntM&vet=10CAkQxiAoAWoXChMIuLCasYmQ8QIVAAAAAB0AAAAAEAM..i&docid=y6xxaF90aKyMHM&w=310&h=231&itg=1&q=sqlite%20logo&ved=0CAkQxiAoAWoXChMIuLCasYmQ8QIVAAAAAB0AAAAAEAM" alt="sqlite" width="90" height="40"/>
 </p>
 
 * **Others:**

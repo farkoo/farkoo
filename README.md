@@ -14,11 +14,11 @@
 ### What I know?
 * **Programming Languages:**
 <p align="center">
-<img src="https://img.icons8.com/color/2x/python.png" alt="python" width="40" height="40"/>
-<img src="https://img.icons8.com/fluent/2x/matlab.png" alt="matlab" width="40" height="40"/>
-<img src="https://img.icons8.com/color/2x/c-programming.png" alt="c" width="40" height="40"/>
-<img src="https://img.icons8.com/color/2x/c-plus-plus-logo.png" alt="cplusplus" width="40" height="40"/>
-<img src ="https://img.icons8.com/color/2x/c-sharp-logo.png" alt="csharp" width="40" height="40"/>
+<img src="https://img.icons8.com/color/2x/python.png" alt="python" width="60" height="60"/>
+<img src="https://img.icons8.com/fluent/2x/matlab.png" alt="matlab" width="60" height="60"/>
+<img src="https://img.icons8.com/color/2x/c-programming.png" alt="c" width="60" height="60"/>
+<img src="https://img.icons8.com/color/2x/c-plus-plus-logo.png" alt="cplusplus" width="60" height="60"/>
+<img src ="https://img.icons8.com/color/2x/c-sharp-logo.png" alt="csharp" width="60" height="60"/>
 <img src ="https://upload.wikimedia.org/wikipedia/en/e/ef/SystemVerilog_logo.png" alt="verilog" width="80" height="40"/>
  </p>
 
@@ -39,9 +39,9 @@
 
 * **Data Analysis Languages:**
 <p align="center">
-<img src="https://image.flaticon.com/icons/png/128/2772/2772128.png" alt="mssql" width="40" height="40"/>
-<img src="https://img.icons8.com/color/2x/postgreesql.png" alt="postgresql" width="40" height="40"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/SQLite370.svg/382px-SQLite370.svg.png" alt="sqlite" width="90" height="40"/>
+<img src="https://image.flaticon.com/icons/png/128/2772/2772128.png" alt="mssql" width="60" height="60"/>
+<img src="https://img.icons8.com/color/2x/postgreesql.png" alt="postgresql" width="60" height="60"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/SQLite370.svg/382px-SQLite370.svg.png" alt="sqlite" width="130" height="60"/>
 </p>
 
 * **Others:**

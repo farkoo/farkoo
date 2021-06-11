@@ -15,10 +15,12 @@
 * **Programming Languages:**
 <p align="center">
 <img src="https://img.icons8.com/color/2x/python.png" alt="python" width="40" height="40"/>
+<img src="https://img.icons8.com/fluent/2x/matlab.png" alt="matlab" width="40" height="40"/>
 <img src="https://img.icons8.com/color/2x/c-programming.png" alt="c" width="40" height="40"/>
 <img src="https://img.icons8.com/color/2x/c-plus-plus-logo.png" alt="cplusplus" width="40" height="40"/>
 <img src ="https://img.icons8.com/color/2x/c-sharp-logo.png" alt="csharp" width="40" height="40"/>
-</p>
+<img src ="https://upload.wikimedia.org/wikipedia/en/e/ef/SystemVerilog_logo.png" alt="verilog" width="80" height="40"/>
+ </p>
 
 * **Framworks:**
 <p align="center"> 
@@ -35,11 +37,18 @@
 
 </p>
 
+* **Data Analysis Languages:**
+<p align="center">
+<img src="https://image.flaticon.com/icons/png/128/2772/2772128.png" alt="mssql" width="40" height="40"/>
+<img src="https://img.icons8.com/color/2x/postgreesql.png" alt="postgresql" width="40" height="40"/>
+</p>
+
+* **Others:**
 <p align="center">
 
 <img src="https://img.icons8.com/clouds/2x/github.png" alt="git" width="40" height="40"/>
 <img src="https://img.icons8.com/color/2x/linux.png" alt="linux" width="40" height="40"/>
-<img src="https://img.icons8.com/fluent/2x/matlab.png" alt="matlab" width="40" height="40"/>
+</p>
 
 <img src="https://img.icons8.com/fluent/2x/laravel.png" alt="laravel" width="40" height="40"/>
 <img src="https://image.flaticon.com/icons/png/128/919/919830.png" alt="php" width="40" height="40"/>

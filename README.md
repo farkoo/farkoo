@@ -13,7 +13,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=farkoo&layout=compact&theme=dracula&show_icons=true&count_private=true)](https://github.com/fark00)
 
 <hr>
-
+<!--
 ### What I know?
 * **Programming Languages:**
 <p align="center">
@@ -25,7 +25,7 @@
 <img src ="https://upload.wikimedia.org/wikipedia/en/e/ef/SystemVerilog_logo.png" alt="verilog" width="80" height="40"/>
  </p>
 <hr>
-
+--
 * **Framworks:**
 <p align="center"> 
  <img src="https://cdn.freelogovectors.net/wp-content/uploads/2018/07/tensorflow_logo.png" alt="tensorflow" width="60" height="60"/>
@@ -34,13 +34,13 @@
    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/260px-Scikit_learn_logo_small.svg.png" alt="sklearn" width="80" height="50"/>
 </p>
 <hr>
-
+--
 * **Libraries:**
 <p align="center">
    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/OpenCV_Logo_with_text_svg_version.svg/180px-OpenCV_Logo_with_text_svg_version.svg.png" alt="opencv" width="80" height="90"/>
 </p>
 <hr>
-
+--
 * **Data Analysis Languages:**
 <p align="center">
 <img src="https://image.flaticon.com/icons/png/128/2772/2772128.png" alt="mssql" width="60" height="60"/>
@@ -48,15 +48,15 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/SQLite370.svg/382px-SQLite370.svg.png" alt="sqlite" width="130" height="60"/>
 </p>
 <hr>
-
+--
 * **Others:**
 <p align="center">
-
+--
 <img src="https://img.icons8.com/clouds/2x/github.png" alt="git" width="60" height="60"/>
 <img src="https://img.icons8.com/color/2x/linux.png" alt="linux" width="60" height="60"/>
 <img src="https://seeklogo.com/images/C/centos-logo-494F57D973-seeklogo.com.png" alt="centos" width="60" height="60"/>
 
- 
+ --
 </p>
 
 <hr>
@@ -64,7 +64,7 @@
 ### Find me @:
 
 <p align="center">
-
+--
 [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://linkedin.com/in/farzanehkoohestani/)
 [<img src="https://image.flaticon.com/icons/png/128/2111/2111463.png" width="3.5%"/>](https://instagram.com/farzaneh_koohestani)
 [<img src="https://image.flaticon.com/icons/png/128/2111/2111646.png" width="3.5%"/>](https://t.me/farzaneh_koohestani)
@@ -72,7 +72,7 @@
 
 </p>
 
-
+-->
 
 <!--
 <img src="https://img.icons8.com/fluent/2x/laravel.png" alt="laravel" width="40" height="40"/>

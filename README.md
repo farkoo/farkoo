@@ -9,11 +9,10 @@
 <hr>
 
 ### My Stats and Top Lang:
-<p align=center>
- 
-![fark00's GitHub stats](https://github-readme-stats.vercel.app/api?username=farkoo&theme=dracula&show_icons=true&count_private=true)
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=farkoo&theme=dracula" alt="farkoo's Github Steak" />
- </p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=farkoo&show_icons=true&theme=dracula" alt="Farzaneh Koohestani's GitHub stats" /><br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=farkoo&theme=dracula" alt="Farzaneh Koohestani's Github Steak" />
+</p>
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=farkoo&layout=compact&theme=dracula&show_icons=true&count_private=true)](https://github.com/fark00)
 [![Codetrace widget](https://codetrace.com/widget/farkoo)](https://codetrace.com/users/farkoo)

@@ -3,11 +3,12 @@
 </p>
 
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-blue.svg?style=flat&logo=github)](https://github.com/farkoo)
-
-<p align="center">
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/farkoo?style=flat-square&color=green">
 <img alt="Github Viewers" src="https://komarev.com/ghpvc/?username=fark00&style=flat-square&color=red">
 [![Open Source Love](https://img.shields.io/badge/Open%20Source-%E2%99%A1-pink)](https://github.com/farkoo)
+
+<p align="center">
+
 </p>
 <hr>
 

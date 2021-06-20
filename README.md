@@ -14,7 +14,7 @@
 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=farkoo&theme=dracula" alt="farkoo's Github Steak" />
 
-[![Codetrace widget](https://codetrace.com/widget/farkoo)](https://codetrace.com/users/farkoo)
+[![Codetrace widget](https://codetrace.com/widget/farkoo&theme=dracula)](https://codetrace.com/users/farkoo)
 <hr>
 <!--
 ### What I know?

@@ -12,6 +12,8 @@
 ![fark00's GitHub stats](https://github-readme-stats.vercel.app/api?username=farkoo&theme=dracula&show_icons=true&count_private=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=farkoo&layout=compact&theme=dracula&show_icons=true&count_private=true)](https://github.com/fark00)
 
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=farkoo&theme=dracula" alt="farkoo's Github Steak" />
+
 [![Codetrace widget](https://codetrace.com/widget/farkoo)](https://codetrace.com/users/farkoo)
 <hr>
 <!--

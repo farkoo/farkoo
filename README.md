@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://github.com/farkoo/farkoo/blob/master/farkooLogo.png" width=300 height=100>
+<img src="https://github.com/farkoo/farkoo/blob/master/farkooLogo.png" width=240 height=80>
 </p>
 
 <p align="center">
@@ -9,8 +9,10 @@
 <hr>
 
 ### My Stats and Top Lang:
+<p align=center>
 ![fark00's GitHub stats](https://github-readme-stats.vercel.app/api?username=farkoo&theme=dracula&show_icons=true&count_private=true)
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=farkoo&theme=dracula" alt="farkoo's Github Steak" />
+ </p>
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=farkoo&layout=compact&theme=dracula&show_icons=true&count_private=true)](https://github.com/fark00)
 [![Codetrace widget](https://codetrace.com/widget/farkoo)](https://codetrace.com/users/farkoo)

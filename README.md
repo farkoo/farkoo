@@ -2,17 +2,12 @@
 <img src="https://github.com/farkoo/farkoo/blob/master/farkooLogo.png" width=240 height=80>
 </p>
 
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-blue.svg?style=flat&logo=github)](https://github.com/farkoo)
-
-
-
-[![Open Source Love](https://img.shields.io/badge/Open%20Source-%E2%99%A1-pink)](https://github.com/farkoo)
 
 <p align="center">
 <img alt="PRs Welcome" src="https://img.shields.io/badge/PRs-welcome-blue.svg?style=flat&logo=github">
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/farkoo?style=flat-square&color=green">
 <img alt="Github Viewers" src="https://komarev.com/ghpvc/?username=fark00&style=flat-square&color=red">
-<img alt="Open Source Love" src="ttps://img.shields.io/badge/Open%20Source?style=flat-square&color=pink">
+<img alt="Open Source Love" src="https://img.shields.io/badge/Open%20Source-%E2%99%A1-pink">
 </p>
 <hr>
 

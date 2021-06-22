@@ -24,8 +24,9 @@
 <img src="https://img.shields.io/badge/-pytorch-ffe047?style=for-the-badge&labelColor=black&logo=pytorch">
 <img src="https://img.shields.io/badge/-keras-ffe047?style=for-the-badge&labelColor=black&logo=keras">
 <img src="https://img.shields.io/badge/-scikitlearn-ffe047?style=for-the-badge&labelColor=black&logo=scikitlearn">
+</p>
 
-
+<p align="center">
 <img src="https://img.shields.io/badge/-python-f7def3?style=for-the-badge&labelColor=black&logo=python">
 <img src="https://img.shields.io/badge/-c-f7def3?style=for-the-badge&labelColor=black&logo=c">
 <img src="https://img.shields.io/badge/-matlab-f7def3?style=for-the-badge&labelColor=black&logo=matlab">

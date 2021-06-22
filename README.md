@@ -4,7 +4,7 @@
 
 
 <p align="center">
-<img alt="PRs Welcome" src="https://img.shields.io/badge/PRs-welcome-fde05d.svg?style=flat&logo=github">
+<img alt="PRs Welcome" src="https://img.shields.io/badge/PRs-welcome-1abedb.svg?style=flat&logo=github">
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/farkoo?style=flat-square&color=fb5050">
 <img alt="Github Viewers" src="https://komarev.com/ghpvc/?username=fark00&style=flat-square&color=119721">
 <img alt="Open Source Love" src="https://img.shields.io/badge/Open%20Source-%E2%99%A1-pink">
@@ -17,7 +17,13 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=farkoo&theme=dracula" alt="Farzaneh Koohestani's Github Steak" />
 </p>
 
-## Languages & Frameworks
+## Languages & Frameworks:
+
+<p align="center">
+<img src="https://img.shields.io/badge/-python-f7def3?style=for-the-badge&labelColor=black&logo=python">
+<img src="https://img.shields.io/badge/-c-f7def3?style=for-the-badge&labelColor=black&logo=c">
+<img src="https://img.shields.io/badge/-matlab-f7def3?style=for-the-badge&labelColor=black&logo=matlab">
+</p>
 
 <p align="center">
 <img src="https://img.shields.io/badge/-tensorflow-ffe047?style=for-the-badge&labelColor=black&logo=tensorflow">
@@ -26,11 +32,7 @@
 <img src="https://img.shields.io/badge/-scikitlearn-ffe047?style=for-the-badge&labelColor=black&logo=scikitlearn">
 </p>
 
-<p align="center">
-<img src="https://img.shields.io/badge/-python-f7def3?style=for-the-badge&labelColor=black&logo=python">
-<img src="https://img.shields.io/badge/-c-f7def3?style=for-the-badge&labelColor=black&logo=c">
-<img src="https://img.shields.io/badge/-matlab-f7def3?style=for-the-badge&labelColor=black&logo=matlab">
-</p>
+
 
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=farkoo&layout=compact&theme=dracula&show_icons=true&count_private=true)](https://github.com/fark00)

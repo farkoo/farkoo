@@ -18,7 +18,7 @@
 </p>
 
 ## Languages & Frameworks
-
+<p align=center>
 [![](https://img.shields.io/badge/-tensorflow-ffe047?style=for-the-badge&labelColor=black&logo=tensorflow)](https://www.tensorflow.org/)
 [![](https://img.shields.io/badge/-pytorch-ffe047?style=for-the-badge&labelColor=black&logo=pytorch)](https://www.pytorch.org/)
 [![](https://img.shields.io/badge/-keras-ffe047?style=for-the-badge&labelColor=black&logo=keras)](https://www.keras.io/)
@@ -28,7 +28,7 @@
 [![](https://img.shields.io/badge/-python-f7def3?style=for-the-badge&labelColor=black&logo=python)](https://www.python.org/)
 [![](https://img.shields.io/badge/-c-f7def3?style=for-the-badge&labelColor=black&logo=c)](https://en.wikipedia.org/wiki/C_%28programming_language%29)
 [![](https://img.shields.io/badge/-matlab-f7def3?style=for-the-badge&labelColor=black&logo=matlab)](https://www.mathworks.com/)
-
+</p>
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=farkoo&layout=compact&theme=dracula&show_icons=true&count_private=true)](https://github.com/fark00)
 [![Codetrace widget](https://codetrace.com/widget/farkoo)](https://codetrace.com/users/farkoo)

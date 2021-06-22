@@ -16,6 +16,12 @@
   <img src="https://github-readme-stats.vercel.app/api?username=farkoo&show_icons=true&theme=dracula" alt="Farzaneh Koohestani's GitHub stats" /><br />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=farkoo&theme=dracula" alt="Farzaneh Koohestani's Github Steak" />
 </p>
+
+## Languages & Frameworks
+[![]([![](https://img.shields.io/badge/-tensorflow-ffe047?style=for-the-badge&labelColor=black&logo=tensorflow)](https://www.rust-lang.org/))](https://www.tensorflow.org/)
+[![]([![](https://img.shields.io/badge/-pytorch-ffe047?style=for-the-badge&labelColor=black&logo=pytorch)](https://www.rust-lang.org/))](https://www.pytorch.org/)
+[![]([![](https://img.shields.io/badge/-keras-ffe047?style=for-the-badge&labelColor=black&logo=keras)](https://www.rust-lang.org/))](https://www.keras.io/)
+
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=farkoo&layout=compact&theme=dracula&show_icons=true&count_private=true)](https://github.com/fark00)
 [![Codetrace widget](https://codetrace.com/widget/farkoo)](https://codetrace.com/users/farkoo)

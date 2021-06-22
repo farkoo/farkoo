@@ -20,7 +20,7 @@
 ## Languages & Frameworks
 
 <p align="center">
-[<img src="https://img.shields.io/badge/-tensorflow-ffe047?style=for-the-badge&labelColor=black&logo=tensorflow">](https://www.tensorflow.org/)
+<img src="https://img.shields.io/badge/-tensorflow-ffe047?style=for-the-badge&labelColor=black&logo=tensorflow">(https://www.tensorflow.org/)
 [<img src="https://img.shields.io/badge/-pytorch-ffe047?style=for-the-badge&labelColor=black&logo=pytorch">](https://www.pytorch.org/)
 [<img src="https://img.shields.io/badge/-keras-ffe047?style=for-the-badge&labelColor=black&logo=keras">](https://www.keras.io/)
 [<img src="https://img.shields.io/badge/-scikitlearn-ffe047?style=for-the-badge&labelColor=black&logo=scikitlearn">](https://www.scikitlearn.org/)

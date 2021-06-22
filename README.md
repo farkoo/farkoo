@@ -6,8 +6,8 @@
 <p align="center">
 <img alt="PRs Welcome" src="https://img.shields.io/badge/PRs-welcome-fde05d.svg?style=flat&logo=github">
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/farkoo?style=flat-square&color=fb5050">
-<img alt="Github Viewers" src="https://komarev.com/ghpvc/?username=fark00&style=flat-square&color=7cf051">
-<img alt="Open Source Love" src="https://img.shields.io/badge/Open%20Source-%E2%99%A1-f9a4c6">
+<img alt="Github Viewers" src="https://komarev.com/ghpvc/?username=fark00&style=flat-square&color=119721">
+<img alt="Open Source Love" src="https://img.shields.io/badge/Open%20Source-%E2%99%A1-f1c6e0">
 </p>
 <hr>
 

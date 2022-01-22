@@ -17,6 +17,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=farkoo&theme=dracula" alt="Farzaneh Koohestani's Github Steak" />
 </p>
 
+<!--
 ## Languages & Frameworks:
 
 <p align="center">
@@ -31,7 +32,7 @@
 <img src="https://img.shields.io/badge/-keras-ffe047?style=for-the-badge&labelColor=black&logo=keras">
 <img src="https://img.shields.io/badge/-scikitlearn-ffe047?style=for-the-badge&labelColor=black&logo=scikitlearn">
 </p>
-
+-->
 
 
 <!--

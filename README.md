@@ -11,7 +11,7 @@
 </p>
 <hr>
 
-### My Stats and Top Lang:
+### My Stats:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=farkoo&show_icons=true&theme=dracula" alt="Farzaneh Koohestani's GitHub stats" /><br />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=farkoo&theme=dracula" alt="Farzaneh Koohestani's Github Steak" />
